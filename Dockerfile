@@ -1,2 +1,2 @@
-FROM registry.access.redhat.com/ubi8/nginx-124
+FROM registry.access.redhat.com/ubi9/nginx-126
 COPY index.html /usr/share/nginx/html/
