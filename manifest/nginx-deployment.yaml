@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: quay.io/rh-ee-csuryant/nginx-demo:v1
+        image: quay.io/rh-ee-csuryant/nginx-sample:v1
         ports:
         - containerPort: 80
